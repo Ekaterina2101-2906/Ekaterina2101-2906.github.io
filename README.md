@@ -3,13 +3,13 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Ekaterina2101-2906.github.io)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Ekaterina2101-2906.github.io)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Ekaterina2101-2906)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Ekaterina2101-2906)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=synthwave-84&username=Ekaterina2101-2906.github.io)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=synthwave-84&username=Ekaterina2101-2906)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -62,13 +62,13 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/stepik-certificate.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса "Postman-ниндзя: с нуля до автотестов">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906.github.io/refs/heads/main/stepik-certificate.jpg)
-[<img src="/stepik.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса "Старый Новый баг">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906.github.io/refs/heads/main/stepik.jpg)
+[<img src="/stepik-certificate.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса "Postman-ниндзя: с нуля до автотестов">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906/refs/heads/main/stepik-certificate.jpg)
+[<img src="/stepik.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса "Старый Новый баг">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906/refs/heads/main/stepik.jpg)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по профессии "Инженер по тестированию">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906.github.io/refs/heads/main/certificate.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по профессии "Инженер по тестированию">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906/refs/heads/main/certificate.png)
 
 <br>
 <br>
