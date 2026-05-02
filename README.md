@@ -63,7 +63,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/stepik-certificate.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса «Postman-ниндзя: с нуля до автотестов» ">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906/refs/heads/main/stepik-certificate.jpg)
+[<img src="/stepik-certificate.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса «Postman-ниндзя: с нуля до автотестов» ">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906/refs/heads/main/stepik-certificate.jpg)
 [<img src="/stepik.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса «Старый Новый баг» ">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906/refs/heads/main/stepik.jpg)
 
 <br>
