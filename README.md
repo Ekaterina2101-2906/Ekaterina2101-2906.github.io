@@ -62,9 +62,9 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
-[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_kvadra.png)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса по профессии "Инженер по тестированию">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906.github.io/refs/heads/main/certificate.png)
+[<img src="/stepik-certificate.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса "Postman-ниндзя: с нуля до автотестов">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906.github.io/refs/heads/main/stepik-certificate.jpg)
+[<img src="/stepik.jpg" width="280px" hspace="10px" alt="Сертификат о прохождении курса "Старый Новый баг">](https://raw.githubusercontent.com/Ekaterina2101-2906/Ekaterina2101-2906.github.io/refs/heads/main/stepik.jpg)
 
 <br>
 
